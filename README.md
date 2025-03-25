@@ -194,7 +194,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-- **Your Name** - [GitHub Profile](https://github.com/yourusername)
+- **Your Name** - [GitHub Profile](https://github.com/Twarga)
 
 ## 🙏 Acknowledgements
 
@@ -207,5 +207,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/yourusername">Your Name</a>
+  Made with ❤️ by <a href="https://github.com/Twarga">Your Name</a>
 </p>
